@@ -21,6 +21,9 @@
     * [Retrieving Slot Number for a Vehicle with a Specific Registration Number](#retrieving-slot-number-for-a-vehicle-with-a-specific-registration-number)
     * [Exiting the Application](#exiting-the-application)
 
+## General Information
+The Parking system is a console-based application that manages the occupancy of available parking lots.
+
 ## Technologies
 This project is built using the following technologies:
 
@@ -45,11 +48,6 @@ dotnet run
 ```
 
 Make sure you have the .NET Framework installed on your machine before running the project.
-
-
-## General Information
-
-The Parking system is a console-based application that manages the occupancy of available parking lots.
 
 ## Features
 
